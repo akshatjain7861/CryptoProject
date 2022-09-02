@@ -1,0 +1,33 @@
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 2%;
+}
+body{
+    /* background-color: #14213d; */
+    background-image: url("bg.jpg");
+    background-size: cover;
+    
+}
+.fix{
+    border:3px solid #0bc5d6;
+    border-radius: 8px;
+    
+    padding: 10px;
+}
+h1,h4{
+    color:#d7dd20;
+}
+.btn-primary {
+    background-color: rgb(64, 216, 13);
+  }
+  #coin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #e52a09;
+    background-color: rgb(11, 11, 11);
+  
+  }
